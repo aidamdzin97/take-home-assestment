@@ -1,4 +1,4 @@
-# Take-Home Assessment
+# Annotation Data Transformation – First Assessment Project
 
 This repository contains my first take-home assessment experience focused on **data transformation and validation**.  
 
